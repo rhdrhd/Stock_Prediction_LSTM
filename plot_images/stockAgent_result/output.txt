@@ -1,0 +1,228 @@
+*********************
+today is 2023-04-03
+current price: [286.51998901]
+predicted price: [283.93826]
+action is to 0 stock
+true price: [287.23001099]
+initial budget: 10000
+final budget: [10000.]
+stock count: 0
+daily gain: [0.]
+total wealth: [10000.]
+total gain: [0.]
+*********************
+today is 2023-04-04
+current price: [287.23001099]
+predicted price: [287.51865]
+action is to 0 stock
+true price: [287.17999268]
+initial budget: [10000.]
+final budget: [10000.]
+stock count: 0
+daily gain: [0.]
+total wealth: [10000.]
+total gain: [0.]
+*********************
+today is 2023-04-05
+current price: [285.8500061]
+predicted price: [287.4328]
+action is to 0 stock
+true price: [284.33999634]
+initial budget: [10000.]
+final budget: [10000.]
+stock count: 0
+daily gain: [0.]
+total wealth: [10000.]
+total gain: [0.]
+*********************
+today is 2023-04-06
+current price: [283.20999146]
+predicted price: [284.8578]
+action is to 0 stock
+true price: [291.6000061]
+initial budget: [10000.]
+final budget: [10000.]
+stock count: 0
+daily gain: [0.]
+total wealth: [10000.]
+total gain: [0.]
+*********************
+today is 2023-04-10
+current price: [289.20999146]
+predicted price: [290.9139]
+action is to 0 stock
+true price: [289.39001465]
+initial budget: [10000.]
+final budget: [10000.]
+stock count: 0
+daily gain: [0.]
+total wealth: [10000.]
+total gain: [0.]
+*********************
+today is 2023-04-11
+current price: [285.75]
+predicted price: [289.99976]
+action is to 24 stock
+true price: [282.82998657]
+initial budget: [10000.]
+final budget: [3142.]
+stock count: 24
+daily gain: [-70.08032227]
+total wealth: [9929.91967773]
+total gain: [-70.08032227]
+*********************
+today is 2023-04-12
+current price: [284.79000854]
+predicted price: [284.53546]
+action is to 0 stock
+true price: [283.48999023]
+initial budget: [3142.]
+final budget: [3142.]
+stock count: 24
+daily gain: [15.84008789]
+total wealth: [9945.75976562]
+total gain: [-54.24023438]
+*********************
+today is 2023-04-13
+current price: [283.58999634]
+predicted price: [284.8785]
+action is to 0 stock
+true price: [289.83999634]
+initial budget: [3142.]
+final budget: [3142.]
+stock count: 24
+daily gain: [152.40014648]
+total wealth: [10098.15991211]
+total gain: [98.15991211]
+*********************
+today is 2023-04-14
+current price: [287.]
+predicted price: [290.62906]
+action is to 7 stock
+true price: [286.14001465]
+initial budget: [3142.]
+final budget: [1133.]
+stock count: 31
+daily gain: [-94.81945801]
+total wealth: [10003.3404541]
+total gain: [3.3404541]
+*********************
+today is 2023-04-17
+current price: [289.92999268]
+predicted price: [287.91284]
+action is to 0 stock
+true price: [288.79998779]
+initial budget: [1133.]
+final budget: [1133.]
+stock count: 31
+daily gain: [82.45916748]
+total wealth: [10085.79962158]
+total gain: [85.79962158]
+*********************
+today is 2023-04-18
+current price: [291.57000732]
+predicted price: [289.6245]
+action is to 0 stock
+true price: [288.36999512]
+initial budget: [1133.]
+final budget: [1133.]
+stock count: 31
+daily gain: [-13.32977295]
+total wealth: [10072.46984863]
+total gain: [72.46984863]
+*********************
+today is 2023-04-19
+current price: [285.98999023]
+predicted price: [289.2779]
+action is to 2 stock
+true price: [288.45001221]
+initial budget: [1133.]
+final budget: [561.02001953]
+stock count: 33
+daily gain: [7.40057373]
+total wealth: [10079.87042236]
+total gain: [79.87042236]
+*********************
+today is 2023-04-20
+current price: [285.25]
+predicted price: [289.20935]
+action is to 1 stock
+true price: [286.10998535]
+initial budget: [561.02001953]
+final budget: [275.77001953]
+stock count: 34
+daily gain: [-76.36090088]
+total wealth: [10003.50952148]
+total gain: [3.50952148]
+*********************
+today is 2023-04-21
+current price: [285.01000977]
+predicted price: [287.44284]
+action is to 0 stock
+true price: [285.76000977]
+initial budget: [275.77001953]
+final budget: [275.77001953]
+stock count: 34
+daily gain: [-11.89916992]
+total wealth: [9991.61035156]
+total gain: [-8.38964844]
+*********************
+today is 2023-04-24
+current price: [282.08999634]
+predicted price: [287.18893]
+action is to 0 stock
+true price: [281.76998901]
+initial budget: [275.77001953]
+final budget: [275.77001953]
+stock count: 34
+daily gain: [-135.66070557]
+total wealth: [9855.949646]
+total gain: [-144.050354]
+*********************
+today is 2023-04-25
+current price: [279.51000977]
+predicted price: [283.88376]
+action is to 0 stock
+true price: [275.42001343]
+initial budget: [275.77001953]
+final budget: [275.77001953]
+stock count: 34
+daily gain: [-215.89916992]
+total wealth: [9640.05047607]
+total gain: [-359.94952393]
+*********************
+today is 2023-04-26
+current price: [296.70001221]
+predicted price: [278.4245]
+action is to 0 stock
+true price: [295.36999512]
+initial budget: [275.77001953]
+final budget: [275.77001953]
+stock count: 34
+daily gain: [678.29937744]
+total wealth: [10318.34985352]
+total gain: [318.34985352]
+*********************
+today is 2023-04-27
+current price: [295.97000122]
+predicted price: [294.8643]
+action is to 0 stock
+true price: [304.82998657]
+initial budget: [275.77001953]
+final budget: [275.77001953]
+stock count: 34
+daily gain: [321.63970947]
+total wealth: [10639.98956299]
+total gain: [639.98956299]
+*********************
+today is 2023-04-28
+current price: [304.01000977]
+predicted price: [303.93274]
+action is to 0 stock
+true price: [307.26000977]
+initial budget: [275.77001953]
+final budget: [275.77001953]
+stock count: 34
+daily gain: [82.62078857]
+total wealth: [10722.61035156]
+total gain: [722.61035156]
